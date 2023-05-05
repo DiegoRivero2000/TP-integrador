@@ -1,7 +1,3 @@
-.textCarrusel{
-    color: white; text-align: right; margin-left: 30%;
-    }
-
 
 .textCards{
     color: black; text-align: center;
@@ -18,8 +14,9 @@
 .background-color{
     background-color:rgb(46, 45, 45);
     color: white;
-    padding-left: 2%;
-}   
+    
+    }   
+
 
 h5 {
     font-size: 2.5rem; 
